@@ -27,5 +27,6 @@
 }
 
 .menu a:hover{
-    color: #475F61;
+    color: #474747;
+    transition: .2s;
 }
