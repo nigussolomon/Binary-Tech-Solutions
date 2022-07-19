@@ -1,0 +1,29 @@
+.footer{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8%;
+    border-top:3px solid #2B2B2B;
+}
+
+.footer .logo{
+    width: 15%;
+    padding: 1%;
+    padding-bottom: 0%;
+}
+
+.footer .logo img {
+    width: 100%;
+}
+
+.links{
+    width: 30%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.links a{
+    font-size: 25px;
+    color: #475F61;
+}

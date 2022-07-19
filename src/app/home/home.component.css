@@ -1,0 +1,120 @@
+.details{
+    margin-left: 2%;
+}
+
+.details .text{
+    width: 60%;
+    margin-top: 7%;
+}
+
+.details .text h1{
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Comfortaa', cursive;
+}
+
+.details .text h1 span{
+    color: #4eb5ff;
+    font-family: 'Comfortaa', cursive;
+    font-weight: 900;
+}
+
+.buttons a{
+    text-decoration: none;
+    color: white;
+    background: #475F61;
+    padding: 1%;
+    margin: 2%;
+    margin-left: 0;
+    font-size: 20px;
+    height: fit-content;
+}
+
+#work_btn{
+    padding-left: 3%;
+    padding-right: 3%;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 1px solid #475F61;
+    transition: .3s;
+}
+
+#work_btn:hover{
+    background: #fff;
+    color: #475F61;
+}
+
+.buttons{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.detail_box{
+    position: absolute;
+    top: 100vh;
+    right: 5%;
+    border: 2px solid #475F61;
+    width: 19%;
+    border-radius: 3px;
+}
+
+.detail_box h1{
+    padding: 3%;
+    margin-top: 0;
+    background: #475F61;
+    color: white;
+    font-weight: 900;
+}
+
+.detail_box h2, h4, a{
+    padding: 3%;
+    font-weight: 400;
+}
+
+.detail_box h2{
+    font-weight: 900;
+    color: #475F61;
+}
+
+.d_button{
+    margin-top: 15%;
+    margin-bottom: 8%;
+}
+
+.detail_box .d_button a{
+    text-decoration: none;
+    font-weight: 500;
+    padding: 3%;
+    margin-left: 3%;
+    background: #475F61;
+    color: white;
+    border-radius: 3px;
+}
+
+
+.detail_box h4 span{
+    display: block;
+}
+
+.sample_work{
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+}
+
+.work{
+    width: 25%;
+}
+
+.work h2{
+    color: #475F61;
+    font-weight: 800;
+}
+
+.work a{
+    padding-left: 0;
+    text-decoration: none;
+    color: #475F61;
+    font-weight: 600;
+}
