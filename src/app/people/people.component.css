@@ -1,0 +1,24 @@
+.people{
+    display: flex;
+    justify-content: space-between;
+    width: 30%;
+    padding: 1.5%;
+    margin: 2%;
+    border: 1px solid #475F61;
+    border-radius: 5px;
+}
+
+.profile_pic{
+    width: 30%;
+    height: 30%;
+    padding-top: 4%;
+}
+
+.profile_pic img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.people .text span{
+    display: block;
+}
