@@ -11,9 +11,13 @@
     padding: 2%;
 }
 
+.hero .text{
+    margin-top: 5%;
+}
+
 .hero .text h1{
     color: white;
     font-size: 70px;
-    margin-top: 15%;
+    /* margin-top: 15%; */
     font-family: 'Comfortaa', cursive;
 }
